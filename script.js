@@ -133,4 +133,3 @@ function randomInteger(min, max) { // создаем случайное цело
 }
 
 
-///wertyuio
